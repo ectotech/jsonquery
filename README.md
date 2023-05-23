@@ -1,2 +1,2 @@
-# jsonquery
-JSONquery
+# JSONquery
+Query JSON files.

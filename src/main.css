@@ -1,0 +1,20 @@
+:root {
+	--contentWidth: 1200px;
+	--black: #0b0b0b;
+	--dark-blue: #003b8e;
+	--blue: #1564bf;
+	--light-blue: #5e91f2;
+	--dark-grey: #919191;
+	--grey: #dadce0;
+	--dark-white: #f1f3f6;
+	--white: #ffffff;
+	--button: #0169ed;
+	--error: #ed4337;
+}
+
+body {
+	margin: 0;
+	font-family: "Roboto", sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
